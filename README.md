@@ -46,7 +46,7 @@ Si deseas contribuir o mejorar este script, ¡eres bienvenido! Siéntete libre d
 
 ## Licencia
 
-Este script se distribuye bajo la [Licencia Pública General Affero (AGPL)](LICENSE-AGPL).
+Este script se distribuye bajo la Licencia Pública General Affero AGPL que encontrara en el siguiente enlace <https://www.gnu.org/licenses/agpl-3.0.html#license-text>.
 
 ## Recomendaciones adicionales
 
